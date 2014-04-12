@@ -1,8 +1,8 @@
 [
   {
-    "remote": "SlimRoms",
-    "repository": "kernel_lge_hammerhead",
+    "remote": "nexus",
+    "repository": "android_kernel_lge_hammerhead",
     "target_path": "kernel/lge/hammerhead",
-    "revision": "kk4.4"
+    "revision": "android-4.4"
   }
 ]
