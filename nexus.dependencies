@@ -3,6 +3,6 @@
     "remote": "du",
     "repository": "android_kernel_lge_hammerhead",
     "target_path": "kernel/lge/hammerhead",
-    "revision": "du4.4"
+    "revision": "android-4.4"
   }
 ]
