@@ -41,4 +41,7 @@ TARGET_KERNEL_CONFIG := bricked_defconfig
 TARGET_VARIANT_CONFIG := bricked_defconfig
 TARGET_SELINUX_CONFIG := bricked_defconfig
 
+#linaro
+TARGET_KERNEL_CUSTOM_TOOLCHAIN=linaro-4.7
+
 $(call inherit-product-if-exists, vendor/lge/hammerhead/device-vendor.mk)
