@@ -26,7 +26,6 @@
 /system/bin/ds_fmc_appd
 /system/bin/irsc_util
 /system/bin/mm-qcamera-daemon
-/system/bin/mpdecision
 /system/bin/netmgrd
 /system/bin/nl_listener
 /system/bin/port-bridge
