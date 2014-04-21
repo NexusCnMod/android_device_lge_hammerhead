@@ -35,7 +35,6 @@
 /system/bin/rmt_storage
 /system/bin/sensors.qcom
 /system/bin/subsystem_ramdump
-/system/bin/thermal-engine-hh
 /system/bin/time_daemon
 /system/bin/usbhub
 /system/bin/usbhub_init
