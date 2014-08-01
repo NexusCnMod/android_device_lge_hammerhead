@@ -3,6 +3,6 @@
     "remote": "nexus",
     "repository": "android_kernel_lge_hammerhead",
     "target_path": "kernel/lge/hammerhead",
-    "revision": "android-4.4"
+    "revision": "master"
   }
 ]
